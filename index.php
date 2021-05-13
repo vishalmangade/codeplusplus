@@ -15,6 +15,8 @@
 <body>
     <?php include "includes/navbar.php"; ?>
 
+    <h1>hello world</h1>
+
 
     <!-- Optional JavaScript; choose one of the two! -->
 
