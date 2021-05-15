@@ -16,10 +16,9 @@
                     <a class="nav-link" href="css">CSS</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="javascript">JavaScript</a>
+                    <a class="nav-link" href="javascript">JavaScript hello</a>
                 </li>
             </ul>
-
         </div>
     </div>
 </nav>
