@@ -20,19 +20,7 @@
 
 ?>
 
-<input type="button" id="runcode" value="Run code">
-<div id="vis">
-</div>
 
-<script>
-    $(document).ready(function() {
-        $(document).on('click', '#runcode', function() {
-            
-        });
-
-
-    })
-</script>
 
 <!-- <h1>hello world</h1> -->
 
