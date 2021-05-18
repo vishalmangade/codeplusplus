@@ -18,6 +18,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="javascript">JavaScript hello</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" target="_blank" href="code-editor.php">Code Editor</a>
+                </li>
             </ul>
         </div>
     </div>
