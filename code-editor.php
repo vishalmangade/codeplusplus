@@ -12,7 +12,7 @@
     <!-- jquery cdn  -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
-    <title>Code Plus Plus : COde Editor</title>
+    <title>Code Plus Plus</title>
 </head>
 
 <body style="background-color:white;">
